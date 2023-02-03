@@ -14,3 +14,7 @@ ul, ol{
 h1{
   font-weight: 900;
 }
+
+img{
+  border: 1px solid black;
+}
